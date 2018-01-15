@@ -5,3 +5,4 @@ numpy
 pyperclip
 python-chess
 h5py
+pyyaml
